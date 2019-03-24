@@ -1,6 +1,6 @@
 # Udaciy-data-analyst-program
 
-This repository includes all the files for completing the Udacity data analyst program.
+This repository includes all the files for completing the Udacity data analyst nanodegree program.
 
 ## Project_1_Explore_weather_trends
 This folder includes the files for finishing the first project of this program. In this project, 
